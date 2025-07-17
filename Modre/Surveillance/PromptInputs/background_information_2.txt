@@ -1,0 +1,9 @@
+"A Variation Point is an explicit engineering decision that allows for multiple alternative Variants to be chosen during system development, based on specific Assets."
+
+"In some systems, the selection of one variation point can lead to dependencies on other variation points. For instance, choosing a movie player might require selecting an audio player as well."
+
+"Means-end links represent the relationship between an 'end' such as a goal, resource, or satisficed goal and alternative 'means' to achieve it, typically expressed as tasks. In a notation, an arrow points from the means to the end."
+
+
+
+

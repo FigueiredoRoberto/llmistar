@@ -1,0 +1,10 @@
+"During system development, engineers face Variation Points, where they must decide between alternative Variants that are associated with specific Assets. For example, selecting different database systems or user interface frameworks depending on the system’s performance requirements."
+
+
+"When configuring a media platform, users might encounter dependencies between variation points. If they choose a movie player for video playback, the system will also prompt them to select a compatible audio player, ensuring that both media components work together properly."
+
+
+"In system design, means-end links show how tasks (means) lead to achieving specific goals or resources (ends). For example, the task of implementing a new feature is the 'means' to the end goal of improving user experience. In models, this is represented with an arrow pointing from the task to the goal."
+
+
+

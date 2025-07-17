@@ -1,0 +1,8 @@
+"In system development, a Variation Point refers to a deliberate engineering decision where several alternative Variants can be selected in relation to key system Assets. This allows flexibility and customization depending on the specific needs or constraints of the development process."
+Variability is made explicit using variation points. Variation points are places in design artifacts where a specific decision has been narrowed to several options.
+
+
+"In systems that allow customization or configuration, selecting one variation point can introduce dependencies on other related variation points. For example, when a movie player is selected, it often necessitates the selection of an appropriate audio player to ensure media synchronization and playback compatibility."
+
+
+"Means-end links define the relationship between a desired 'end' (which could be a goal, a resource, or a satisficed objective) and the various 'means' used to achieve it. The means are generally tasks, as tasks outline 'how' something is done. In i notation, these links are represented with an arrow from the means to the end."
