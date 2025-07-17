@@ -1,0 +1,24 @@
+In the provided goal model, we can identify the independent explicit designed variation points in each classifier agent by looking at the different tasks and goals associated with each agent. Here are the variation points for each agent:
+
+1. YOLO detector:
+   - Interpretation be carried out
+   - Interpret normal scene
+   - Interpret scene with obstructions
+   - Accuracy
+   - Response time
+   - Image be available
+
+2. Cameras system:
+   - Live channel activated
+   - Provide video stream
+   - Image interpretation be carried out
+
+3. RCNN detector:
+   - Interpretation be carried out
+   - Accuracy
+   - Response time
+   - Image be available
+   - Interpret normal scene
+   - Interpret scene with obstructions
+
+These variation points represent the different options or choices available within each agent's goals and tasks, allowing for customization and flexibility in the system development process.
